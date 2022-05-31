@@ -1,0 +1,4 @@
+Produto cartesiano: ×
+União: ∪
+Diferença: -
+Interseção: ∩
