@@ -27,7 +27,7 @@ M1 = {H,T}
 Moeda 2:
 M2 = {H,T}
 
-M1 × M2 = {(HH),(TT),(HT),(TH)}
+S = M1 × M2 = {(HH),(TT),(HT),(TH)}
 ```
 
 ### 5.
@@ -39,28 +39,107 @@ M = {H,T}
 Dado:
 D = {1,2,3,4,5,6}
 
-M × D = {(T,1),(T,2),(T,3),(T,4),(T,5),(T,6),(H,1),(H,2),(H,3),(H,4),(H,5),(H,6)}
+S = M × D = {(T,1),(T,2),(T,3),(T,4),(T,5),(T,6),(H,1),(H,2),(H,3),(H,4),(H,5),(H,6)}
 ```
 
 ### 6.
 
+- A:
+```python
+S = {1,2,3,4,5,6} × {1,2,3,4,5,6}
+```
 
+- B:
+```python
+S = {D,DD,DDD,DDD,DDDD,DDD...D}
+```
+
+- C:
+```python
+S = {MMM,MMF,MFF,FFF}
+```
+
+- D:
+```python
+Assinates: A = {1,...,250}
+Possui Maquina de Lavar ?: P = {S,N}
+S = A × P
+```
+
+- E:
+```python
+S = {1 hora, 2 horas, 3 horas, 4 horas, 5 horas, ...}
+
+- F:
+```python
+- 10 Nomes
+- 3 Mulheres
+- 7 Homens
+S = {(HHHHHHHMMM),(HHHHHHMMM),(HHHHHMMM),(HHHHMMM),(HHHMMM),(HMMM),(MMM)}
+```
+
+- G:
+```python
+S = {(H),(TH),(TTH),...,(T...TH)}
+```
+
+- H:
+```python
+360 / 60 = 60
+S = {0,60,120,180,240,300,360}
+```
+
+- I:
+```python
+S = {0...360}
+```
+
+- J:
+```python
+pessoas: P = {A,B,C,D,E}
+S = P × P
+```
+
+- L:
+```python
+S = (P × P) - {(A,A),(B,B),(C,C),(D,D),(E,E)}
+```
+
+- M:
+```python
+S =  
+```
+
+- N:
+```python
+Classe: C = {A,B,C,D}
+Estado Civil: E = {S,C,V,D}
+S = C × E
+```
 
 ### 7.
 
+-A
+-B
+-C
 
 
 ### 8.
 
-
+-A
+-B
+-C
 
 ### 9.
 
-
+-A
+-B
+-C
 
 ### 10.
 
-
+-A
+-B
 
 ### 11.
 
@@ -76,4 +155,6 @@ M × D = {(T,1),(T,2),(T,3),(T,4),(T,5),(T,6),(H,1),(H,2),(H,3),(H,4),(H,5),(H,6
 
 ### 14.
 
-
+-A
+-B
+-C
