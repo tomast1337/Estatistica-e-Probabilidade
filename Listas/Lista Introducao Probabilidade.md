@@ -69,7 +69,7 @@ S = A × P
 - E:
 ```python
 S = {1 hora, 2 horas, 3 horas, 4 horas, 5 horas, ...}
-
+```
 - F:
 ```python
 - 10 Nomes
