@@ -142,28 +142,80 @@ S = M1 × M2 = {(HH),(TT),(HT),(TH)}
 
 ### 8.
 
--A
+-A) **A** ocorre mas **B** não ocorre;
 
--B
+```python
+ 
+```
 
--C
+-B) Exatamente um dos eventos **A** e **B** ocorre;
 
+```python
+ A U B; reunião de A e B
+```
+
+-C) enhum dos dois eventos **A** e **B** ocorre.
+
+```python
+
+```
 
 ### 9.
 
--A
+- A) Mostre que a soma das probabilidades dos pontos do espaço amostral é 1.
 
--B
+```R
+S = {AA,BB,CC,ACA,BCB,ACC,BCC,BCAA,ACBB}
 
--C
+AA   = 1/2 * 1/2             = 1/4
+BB   = 1/2 * 1/2             = 1/4
+CC   = 1/3 * 1/3             = 1/9
+ACA  = 1/2 * 1/3 * 1/2       = 1/12
+BCB  = 1/2 * 1/3 * 1/2       = 1/12
+ACC  = 1/2 * 1/3 * 1/3       = 1/18
+BCC  = 1/2 * 1/3 * 1/3       = 1/18
+BCAA = 1/2 * 1/3 * 1/2 * 1/2 = 1/24
+ACBB = 1/2 * 1/3 * 1/2 * 1/2 = 1/24
 
+1/4 + 1/4 + 1/9 + 1/12 + 1/12 + 1/18 + 1/18 + 1/24 + 1/24 + ... = 1
+```
+
+- B) Calcule a probabilidade de que A vença (um jogador vence quando ganha duas partidas seguidas). Em seguida, calcule a probabilidade de que B vença.
+
+```R
+S = {AA,BCAA}
+AA = BB = 1/4 
+BCAA = ACBB = 1/24
+P(A vencer) = 7/24
+P(B vencer) = 7/24
+```
+
+- C) Qual a probabilidade de que não haja decisão?
+```R
+ACA = 1/12
+BCB = 1/12
+ACC = 1/18
+BCC = 1/18
+
+P(Sem Vencedor) = 1/12 + 1/12 + 1/18 + 1/18 = 5/18
+```
 
 ### 10.
 
+```R
+"5" = 1/6
+Q = (5/6)^k
+```
+
 -A
+```R
+
+```
 
 -B
+```R
 
+```
 
 ### 11.
 
