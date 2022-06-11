@@ -118,7 +118,10 @@ S = C × E
 ```
 
 ### 7.
+```python
 S = M1 × M2 = {(HH),(TT),(HT),(TH)}
+```
+
 -A
 
 ```python
