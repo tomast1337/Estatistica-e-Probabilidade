@@ -2,6 +2,13 @@
 
 ![image](https://user-images.githubusercontent.com/15125899/171267451-907b8320-ca4e-4468-8bb7-c031d1cc4879.png)
 
+x|P(X)    |P(X) Decimal|
+-|--------|------------|
+0|	1/56	|0.01785     |
+1|	15/56	|0.26785     |
+2|	15/28	|0.53571     |
+3|	5/28	|0.17857     |
+
 ## 2.
 
 ![image](https://user-images.githubusercontent.com/15125899/171269460-013cddc5-ece9-42ba-993f-4b0b5cefd7f8.png)
