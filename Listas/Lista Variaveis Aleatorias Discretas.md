@@ -27,6 +27,13 @@ x|	P(X)	|P(X) Decimal|
 
 ![image](https://user-images.githubusercontent.com/15125899/171317492-12d0e1f8-8c96-4074-b7d1-9f9a0d113699.png)
 
+x|	P(X) |P(X) Decimal |Combinaação|
+-|-------|-------------|-----------|
+0|	(½)⁰ |1	           |t          |
+1|	(½)² |0.5          |ht         |
+2|	(½)² |0.25         |hht        |
+n|	(½)^n|	…          |h..ht      |
+
 ## 5. e 6. ?
 
 ![image](https://user-images.githubusercontent.com/15125899/171326371-8bb1c731-c42a-4402-88cf-3243602b5481.png)
@@ -50,9 +57,9 @@ E(X) = (0*27/512)+(1*135/512)+(2*225/512)+(2*125/512)	 = 1+(323/512) = 1.630
 Var(X)
 ```
 ## 8.
-```R
-E(Y) = 
-```
+
+E(Y) = ![image](https://user-images.githubusercontent.com/15125899/173210380-c4f4a530-b1f2-46ec-970e-c239a1bff41a.png)
+
 ```R
 Var(Y)
 ```
