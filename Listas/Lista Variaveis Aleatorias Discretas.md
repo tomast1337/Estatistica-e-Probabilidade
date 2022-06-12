@@ -19,20 +19,28 @@
 ![image](https://user-images.githubusercontent.com/15125899/171326371-8bb1c731-c42a-4402-88cf-3243602b5481.png)
 
 ## 7.
+![image](https://user-images.githubusercontent.com/15125899/173209725-d52b4b74-0b57-4235-bede-45941a5e41d9.png)
+![image](https://user-images.githubusercontent.com/15125899/173209734-0d8082cb-277d-45f7-86ee-122d65502550.png)
 
 1)
 ```R
 E(x)
+```
+```R
 Var(x)
 ```
 2)
 ```R
 E(x)
+```
+```R
 Var(x)
 ```
 ## 8.
 ```R
 E(y)
+```
+```R
 Var(y)
 ```
 ## 9.
