@@ -59,7 +59,7 @@ Var(X)
 ## 8.
 
 E(Y) = ![image](https://user-images.githubusercontent.com/15125899/173210380-c4f4a530-b1f2-46ec-970e-c239a1bff41a.png)
-
+= 1 ???
 ```R
 Var(Y)
 ```
