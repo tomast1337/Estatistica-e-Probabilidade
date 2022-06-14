@@ -25,7 +25,7 @@ B)
 
 ### (6 -
 
-
+![image](https://user-images.githubusercontent.com/15125899/173479890-6035e0ff-8da8-431d-bd22-6e580c60a65a.png)
 
 ### (7 -
 
