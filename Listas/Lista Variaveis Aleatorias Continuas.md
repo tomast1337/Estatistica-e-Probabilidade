@@ -29,7 +29,7 @@ B)
 
 ### (7 -
 
-
+![image](https://user-images.githubusercontent.com/15125899/173487368-3a7554c4-e713-4a4c-9ff3-9850cc9b1725.png)
 
 ### (8 -
 
