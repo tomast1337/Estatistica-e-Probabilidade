@@ -21,7 +21,7 @@
 ### 18)
 ![image](https://user-images.githubusercontent.com/15125899/179383462-b533287c-7b53-4b01-ad5f-f10e099cb93e.png)
 
-
+![image](https://user-images.githubusercontent.com/15125899/179423947-86e7bb39-59e4-4cd7-99bc-b3cf7d5e0a21.png)
 
 -----
 ### 19)
