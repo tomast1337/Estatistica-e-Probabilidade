@@ -1,6 +1,9 @@
 ### 1)
 ![1](https://user-images.githubusercontent.com/15125899/179434391-c8038af1-654d-41e2-8ce7-de39e10f4dbe.png)
 
+![a](https://user-images.githubusercontent.com/15125899/179436255-a2265acf-6145-4234-90dc-21864a36e58a.png)
+![b](https://user-images.githubusercontent.com/15125899/179436266-d3fe8cdf-f007-43fe-ad03-e25e11393652.png)
+![c](https://user-images.githubusercontent.com/15125899/179436274-eb603a3f-90c2-46c3-a368-f47fb782c861.png)
 
 ------
 ### 2)
