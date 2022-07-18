@@ -49,6 +49,7 @@
 ### 9)
 ![9](https://user-images.githubusercontent.com/15125899/179434415-d6b0f4d0-9f28-4deb-a841-b1664f160c17.png)
 
+![x+y xy](https://user-images.githubusercontent.com/15125899/179624295-5edf9502-4db8-4994-9b09-22786f3fce14.png)
 
 ------
 ### 10)
