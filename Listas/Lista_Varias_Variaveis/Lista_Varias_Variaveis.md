@@ -9,6 +9,9 @@
 ### 2)
 ![2](https://user-images.githubusercontent.com/15125899/179434394-8ab7bd25-627e-446a-8a5b-8170e09d6842.png)
 
+![image](https://user-images.githubusercontent.com/15125899/179439606-62f88764-171d-4947-bb7c-29edd976b6ec.png)
+![image](https://user-images.githubusercontent.com/15125899/179439601-5bf4fff1-7c27-424a-be7f-2b192b142124.png)
+![image](https://user-images.githubusercontent.com/15125899/179439598-84f0fe67-d35c-4039-b370-ba8524a8e51f.png)
 
 ------
 ### 3)
