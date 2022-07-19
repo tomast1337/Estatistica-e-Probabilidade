@@ -34,6 +34,9 @@
 ### 6)
 ![6](https://user-images.githubusercontent.com/15125899/179434409-3c31692e-b9da-43d9-86d5-5950154e83dd.png)
 
+![image](https://user-images.githubusercontent.com/15125899/179647855-a6fd125d-b00a-41e5-a251-e4849663ac0d.png)
+![image](https://user-images.githubusercontent.com/15125899/179647872-135f5e14-41f9-4cb0-a529-e28a1e5161e6.png)
+![image](https://user-images.githubusercontent.com/15125899/179647866-a3927da5-3801-4345-a752-53ea0e1f038a.png)
 
 ------
 ### 7)
