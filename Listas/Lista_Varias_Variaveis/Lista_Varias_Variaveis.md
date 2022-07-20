@@ -69,6 +69,7 @@
 ### 19)
 ![19](https://user-images.githubusercontent.com/15125899/179434441-0a0c116b-81be-4f06-9d4d-2c6b6ec12d35.png)
 
+![image](https://user-images.githubusercontent.com/15125899/180036245-6ff0778e-4f4c-40f8-a9c6-aaf7199adf1b.png)
 
 ------
 ### 20)
