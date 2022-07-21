@@ -58,7 +58,7 @@
 ### 10)
 ![10](https://user-images.githubusercontent.com/15125899/179434419-669cbd85-2b0a-4da4-8c59-2305892fb2db.png)
 
-
+![a b c](https://user-images.githubusercontent.com/15125899/180293849-772e11a6-42e3-4b8b-82f9-0cf41000d8ec.png)
 
 ------
 ### 18)
