@@ -34,7 +34,7 @@ resposta = `S1 U S2 = {BC,BK,PP,PV}`
 ### 2. Aka Capitulo 5 - Questão 2
 ![image](https://user-images.githubusercontent.com/15125899/180634764-5824b064-ba06-405c-83d7-20e8fe8e0bdc.png)
 
-
+```R
 Q = {5}
 N = {1,2,3,4,6}
 S = {(Q),(N,Q),(N,N,Q),...,(N,...,N,Q)}
