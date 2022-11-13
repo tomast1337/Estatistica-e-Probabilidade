@@ -29,7 +29,7 @@ $\displaystyle \frac{\lambda^k e^{-\lambda}}{k!}$
 
 $\displaystyle (q)^{k-1}p$
 
-### Distribuição Pacal
+### Distribuição Pacal / Binomial
 
 $\displaystyle \binom{k-1}{r-1}p^r*q^{k-r}$
 
