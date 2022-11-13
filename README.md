@@ -5,14 +5,41 @@ Estatistica e Probabilidade
 
 ![unknown (1)](https://user-images.githubusercontent.com/15125899/171236840-a17e89f7-3928-4d50-9220-44b5b57bb5b4.png)
 
-Distribuição Normal
-Distribuição Exponencial
-Distribuição Gama
-Distribuição Qui-Quadrado
-Distribuição Poisson
-Distribuição Geométrica
-Distribuição Pacal
-Distribuição Hipergeométrica
+-------------------
+
+### Distribuição Normal
+
+$\displaystyle \frac{1}{\sqrt{2\pi}}e^{-\frac{x^2}{2}}$
+
+### Distribuição Exponencial
+
+$\displaystyle \alpha e^{-\alpha x}$ (para $x \geq 0$)
+
+### Distribuição Gama
+
+$\displaystyle x^{\alpha-1}e^{-\frac{x}{\beta}}\frac{1}{\beta^\alpha\Gamma(\alpha)}$ (para $x \geq 0$)
+
+### Distribuição Qui-Quadrado
+
+Tabular
+
+### Distribuição Poisson
+
+$\displaystyle \frac{\lambda^k e^{-\lambda}}{k!}$
+
+### Distribuição Geométrica
+
+$\displaystyle (q)^{k-1}p$
+
+### Distribuição Pacal
+
+$\displaystyle \binom{k-1}{r-1}p^r*q^{k-r}$
+
+### Distribuição Hipergeométrica
+
+$\displaystyle \frac{\binom{r}{k}\binom{N-r}{n-k}}{\binom{N}{n}}$
+
+-------------- next part --------------
 
 Bernoulli, Um evento ocorreu ou não ocorreu
 
