@@ -293,7 +293,25 @@ p = (5/6)³(1/6) = 0.09645...
 
 ![image](https://user-images.githubusercontent.com/15125899/180634800-cb566e44-96be-44c3-aeaa-034065ab3d23.png)
 
-![image](https://user-images.githubusercontent.com/15125899/173176147-94abaa4e-6174-49b1-a2c8-e78ad16fbd55.png)
+Negativos: 8, Positivos: 6, Total: 14
+
+Casos: (-,-), (+,-), (-,+), (+,+) 
+Casos Posituvos: (-,-), (+,+)
+
+(+,+):
+```math
+ \frac{6}{14} * \frac{5}{13} = \frac{15}{91}
+```
+(-,-):
+```math
+ \frac{8}{14} * \frac{7}{13} = \frac{4}{13}
+```
+
+(+,+) e (-,-)
+
+```math
+ \frac{\frac{15}{91} + \frac{4}{13} }{2} = frac{43}{182} 
+```
 
 -----------------------------------
 
